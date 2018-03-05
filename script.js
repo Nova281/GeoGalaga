@@ -13,7 +13,7 @@ function drawImage(image, x, y, w, h) {
 
 // Game specific functions
 function makeBase() {
-  	// drawImage('https://preview.ibb.co/hV2utx/imageedit_1_3612881068.png', 0, 0, 100, 100);
+  	// drawImage('alien.jpeg', 0, 0, 100, 100);
 }
 
 // Event listeners
